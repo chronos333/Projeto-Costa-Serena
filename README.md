@@ -44,6 +44,9 @@ _Tela de login para a área administrativa._
 
 | Nome do Membro | GitHub |
 | :--- | :--- |
-| (Nome do Aluno 1) | (link) |
-| (Nome do Aluno 2) | (link) |
-| (Nome do Aluno 3) | (link) |
+| (Vinicius Pini) | (link) |
+| (Rian Eduardo) | (link) |
+| (Filipe Reis) | (link) |
+| (Guilherme Biondo) | (link) |
+| (Larissa Lima) | (link) |
+| (Daniel Cabral) | (link) |

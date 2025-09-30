@@ -34,11 +34,7 @@ _Tela de login para a área administrativa._
 
 ## 🚀 Como Executar o Projeto
 
-*(Esta seção será preenchida com as instruções para instalar e rodar o projeto localmente)*
-
-1.  Clone o repositório: `git clone ...`
-2.  Instale as dependências: `pip install ...`
-3.  Execute o servidor: `python manage.py runserver`
+*(Esta seção será preenchida com o link do projeto em breve)*
 
 ## 👥 Equipe
 

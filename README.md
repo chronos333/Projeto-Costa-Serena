@@ -1,6 +1,6 @@
 # 🏨 Projeto Costa Serena Resort
 
-![Logo do Costa Serena](./assets/logo-imagens/costa-serena-logo.png)
+![Logo do Costa Serena](./assets/costa-serena-logo.png)
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 

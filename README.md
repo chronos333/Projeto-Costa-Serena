@@ -12,7 +12,7 @@ O sistema de gestão do Costa Serena foi projetado para resolver problemas comun
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Front-End:** HTML, CSS, JavaScript
+* **Front-End:** HTML, CSS
 * **Back-End:** Python
 * **Banco de Dados:** MySQL
 

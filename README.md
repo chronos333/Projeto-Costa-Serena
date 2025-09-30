@@ -1,5 +1,5 @@
-# 🌱 Life Hub  
-<img width="200" height="200" alt="Logo Life Hub" src="https://github.com/user-attachments/assets/8c4f71a1-0b45-4f1d-b9dc-598002c6011e" />
+# Hotel Costa Serena  
+<img width="200" height="200" alt="Logo Life Hub" src="" />
 
 ## 👥 Membros do grupo
 - Rian Eduardo  

@@ -43,6 +43,6 @@ _Tela de login para a área administrativa._
 | (Vinicius Pini) | (https://github.com/chronos333) |
 | (Rian Eduardo) | (https://github.com/rianeduardo) |
 | (Filipe Reis) | (https://github.com/Filipe1473) |
-| (Guilherme Biondo) | (link) |
+| (Guilherme Biondo) | (https://github.com/GuizineRa) |
 | (Larissa Lima) | (https://github.com/larissavlima7-cmd) |
 | (Daniel Cabral) | (https://github.com/AelikDan) |

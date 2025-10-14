@@ -42,7 +42,7 @@ _Tela de login para a área administrativa._
 | :--- | :--- |
 | (Vinicius Pini) | (link) |
 | (Rian Eduardo) | (link) |
-| (Filipe Reis) | (link) |
+| (Filipe Reis) | (https://github.com/Filipe1473) |
 | (Guilherme Biondo) | (link) |
 | (Larissa Lima) | (link) |
 | (Daniel Cabral) | (link) |

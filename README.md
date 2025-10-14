@@ -27,7 +27,7 @@ O sistema de gestão do Costa Serena foi projetado para resolver problemas comun
 
 ## 🖼️ Telas do Sistema
 
-Aqui você pode adicionar capturas de tela do projeto conforme ele avança.
+Aqui é um wireframe do projeto.
 
 ![Tela de Login](./assets/captura.PNG)
 _Tela de login para a área administrativa._

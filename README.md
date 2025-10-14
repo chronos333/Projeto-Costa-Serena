@@ -40,7 +40,7 @@ _Tela de login para a área administrativa._
 
 | Nome do Membro | GitHub |
 | :--- | :--- |
-| (Vinicius Pini) | (link) |
+| (Vinicius Pini) | (https://github.com/chronos333) |
 | (Rian Eduardo) | (link) |
 | (Filipe Reis) | (https://github.com/Filipe1473) |
 | (Guilherme Biondo) | (link) |

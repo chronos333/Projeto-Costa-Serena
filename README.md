@@ -44,5 +44,5 @@ _Tela de login para a área administrativa._
 | (Rian Eduardo) | (https://github.com/rianeduardo) |
 | (Filipe Reis) | (https://github.com/Filipe1473) |
 | (Guilherme Biondo) | (link) |
-| (Larissa Lima) | (link) |
-| (Daniel Cabral) | (link) |
+| (Larissa Lima) | (https://github.com/larissavlima7-cmd) |
+| (Daniel Cabral) | (https://github.com/AelikDan) |

@@ -4,17 +4,17 @@
 - Organização geral (Trello, GitHub, cronograma)  
 - Criação e ajustes da logo  
 - Estrutura principal do site (HTML base + CSS global)  
-- Menu lateral e navegação  
+- Menu lateral e navegação 
 
 ### 🔹 Guilherme biondo 
 - Criação das páginas de tópicos (ex.: `topico1.html`, `topico2.html`)  
 - Escrita do conteúdo sobre descarte correto  
-- Revisão da clareza e objetividade dos textos  
+- Revisão da clareza e objetividade dos textos
 
 ### 🔹 Felipe Reis 
 - Seleção de imagens (carrossel, tópicos, conscientização)  
 - Implementação do carrossel de imagens  
-- Apoio na identidade visual (cores, fontes)  
+- Apoio na identidade visual (cores, fontes)
 
 ### 🔹 Larissa Vieira
 - Revisão do conteúdo e checagem das informações  
@@ -23,3 +23,5 @@
 - Ajustes de layout e estilização das páginas de tópicos
 
 - ### 🔹 Daniel Cabral
+
+### 🔹 Rian Eduardo

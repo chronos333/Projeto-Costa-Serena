@@ -1,17 +1,18 @@
-🚀 Guia Simples para Colaborar no GitHub (sem Git Bash)
-🔹 1. Criar conta no GitHub
+# 🚀 Guia Simples para Colaborar no GitHub (sem Git Bash)
+
+## 🔹 1. Criar conta no GitHub
 Cada um precisa ter uma conta no GitHub.
 👉 [Criar conta aqui](https://github.com/join)
 
 ---
 
-🔹 2. Aceitar o convite
+## 🔹 2. Aceitar o convite
 O Vinicius (dono do repositório) vai enviar um convite.
 Cada um entra no GitHub e aceita em “Your repositories” > Convites.
 
 ---
 
-🔹 3. Editar o projeto pelo site (mais fácil)
+## 🔹 3. Editar o projeto pelo site (mais fácil)
 Entre no repositório do grupo (ex: projeto-Costa-Serena).
 Clique na pasta/arquivo que quer editar.
 Clique no lápis ✏️ (canto superior direito) para editar.
@@ -22,26 +23,26 @@ Clique em **Commit changes** ✅.
 
 ---
 
-🔹 4. Criar novos arquivos/páginas
+## 🔹 4. Criar novos arquivos/páginas
 Dentro do repositório, clique em **Add file > Create new file**.
 Dê o nome do arquivo (ex: home.html).
 Escreva o conteúdo e salve com **Commit changes**.
 
 ---
 
-🔹 5. Ver o que os outros fizeram
+## 🔹 5. Ver o que os outros fizeram
 Sempre olhe na aba Code se alguém já mexeu no que você queria mudar.
 Se duas pessoas editarem o mesmo arquivo ao mesmo tempo, pode dar conflito — por isso é bom cada um mexer em **partes diferentes**.
 
 ---
 
-🔹 6. Se quiserem usar GitHub Desktop (opcional)
+## 🔹 6. Se quiserem usar GitHub Desktop (opcional)
 Baixem: [GitHub Desktop](https://desktop.github.com/) 
 É só logar, baixar o repositório, editar os arquivos no computador e clicar em **Commit** e **Push** sem precisar digitar comandos.
 
 ---
 
-📌 Resumo para o grupo
+## 📌 Resumo para o grupo
 Criem conta no GitHub.
 Aceitem o convite do Enzo.
 Mexam nos arquivos direto pelo site (ou pelo GitHub Desktop).
@@ -49,7 +50,7 @@ Sempre expliquem no **commit** o que fizeram.
 
 ---
 
-🌱 Dica: Cada commit deve ter uma mensagem clara, tipo:
+🌱 **Dica:** Cada commit deve ter uma mensagem clara, tipo:
 Adicionei a home
 Criei página inicial
 Corrigi layout do menu

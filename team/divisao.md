@@ -1,6 +1,6 @@
 ## 👤 Divisão de Tarefas — Costa-Serena
 
-### 🔹 Vinicius pini — **Integrante**
+### 🔹 Vinicius pini
 - Organização geral (Trello, GitHub, cronograma)
 - wireframe (administraçao)
 

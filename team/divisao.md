@@ -10,7 +10,7 @@
 - wireframe (home page, informaçoes de cada quarto)
 - auxiliou no escopo
 
-### 🔹 Felipe Reis 
+### 🔹 Filipe Reis 
 - auxiliou na criaçao e organizaçao do trello
 - pesquisas de sites de resort
 - auxiliou na escolha da paletas de cores

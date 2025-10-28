@@ -3,7 +3,7 @@
 ### 🔹 Vinicius pini — **Integrante**
 - Organização geral (Trello, GitHub, cronograma)
 - wireframe (administraçao)
--       
+
 
 ### 🔹 Guilherme biondo 
 - pesquisa para o trello

@@ -1,4 +1,4 @@
-## 👤 Divisão de Tarefas — Life Hub
+## 👤 Divisão de Tarefas — Costa-Serena
 
 ### 🔹 Vinicius pini — **Integrante**
 - Organização geral (Trello, GitHub, cronograma)

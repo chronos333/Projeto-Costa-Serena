@@ -13,7 +13,7 @@ O sistema de gestão do Costa Serena foi projetado para resolver problemas comun
 ## 🛠️ Tecnologias Utilizadas
 
 * **Front-End:** HTML, CSS
-* **Back-End:** Python
+* **Back-End:** Python com Django
 * **Banco de Dados:** MySQL
 
 ## ✨ Funcionalidades Principais
@@ -27,14 +27,9 @@ O sistema de gestão do Costa Serena foi projetado para resolver problemas comun
 
 ## 🖼️ Telas do Sistema
 
-Aqui é um wireframe do projeto.
+Aqui é um exemplo de wireframe do projeto.
 
 ![Tela de Login](./assets/captura.PNG)
-_Tela de login para a área administrativa._
-
-## 🚀 Como Executar o Projeto
-
-*(Esta seção será preenchida com o link do projeto em breve)*
 
 ## 👥 Equipe
 

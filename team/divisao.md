@@ -30,5 +30,6 @@
 - fez o escopo
 - criou o cronograma
 - criou o sitemap
-- fez wireframe (home)
+- fez wireframe (home, reserva, sobre)
 - programou a homepage
+- mer e der
